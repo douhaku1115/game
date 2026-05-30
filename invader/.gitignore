@@ -1,0 +1,4 @@
+invader.exe
+SDL2.dll
+*.o
+*.d
